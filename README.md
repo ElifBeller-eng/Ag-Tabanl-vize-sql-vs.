@@ -1,6 +1,6 @@
 video linkleri :
-https://youtu.be/XuiCC2liheg?si=p4-LEDK_FQtcbje_
 https://youtu.be/GdN8n-_9lZQ?si=-3GzqVFamaF4EevE
+https://youtu.be/rGrO-TFxE1U?si=bHyh91gZNuj7M3HU
 https://youtu.be/XuiCC2liheg?si=e3hm7QIz2Z3dXk8x
 
 [# 📊 Ağ Tabanlı Vize SQL Projesi
