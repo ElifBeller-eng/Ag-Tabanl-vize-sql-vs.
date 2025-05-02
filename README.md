@@ -1,3 +1,8 @@
+video linkleri :
+https://youtu.be/XuiCC2liheg?si=p4-LEDK_FQtcbje_
+https://youtu.be/GdN8n-_9lZQ?si=-3GzqVFamaF4EevE
+https://youtu.be/XuiCC2liheg?si=e3hm7QIz2Z3dXk8x
+
 [# 📊 Ağ Tabanlı Vize SQL Projesi
 
 Bu proje, Ankara Üniversitesi Bilgisayar Mühendisliği bölümünde verilen **BLM4522 - Ağ Tabanlı Paralel Dağılım Sistemleri** dersi kapsamında hazırlanmıştır. Proje, veritabanı sistemlerinin güvenliği, veri temizleme ve yedekleme konularında uygulamalı örnekler içermektedir.
